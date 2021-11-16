@@ -1,14 +1,14 @@
 {
-  "name": "node-project-slignair",
+  "name": "bestmantypescript",
   "version": "1.0.0",
-  "description": "This is the backend app for Slingair",
+  "description": "I am adding typescript to an app that I had previously made without it",
   "proxy": "http://localhost:8000",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "dev:backend": "nodemon server.js"
   },
-  "author": "Jeremie Legault <jerry@condormatador.com>",
+  "author": "Jeremie Legault <jeremie_legault@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.2.2",
